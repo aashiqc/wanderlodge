@@ -59,7 +59,7 @@ const UserMenu: React.FC<UserMenuProps> = ({
             cursor-pointer
           "
         >
-          wanderlodge your haven
+          WanderLodge your haven
         </div>
         <div 
         onClick={toggleOpen}
@@ -120,7 +120,7 @@ const UserMenu: React.FC<UserMenuProps> = ({
                   onClick={() => router.push('/properties')}
                 />
                 <MenuItem 
-                  label="wanderlodge, your haven" 
+                  label="Wanderlodge your haven" 
                   onClick={rentModal.onOpen}
                 />
                 <hr />
