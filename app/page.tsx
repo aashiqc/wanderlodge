@@ -6,7 +6,6 @@ import EmptyState from "@/app/components/EmptyState";
 import getCurrentUser from "@/app/actions/getCurrentUser";
 import ClientOnly from "./components/ClientOnly";
 import getListings, { IListingsParams } from "./actions/getListing";
-
 interface HomeProps {
   searchParams: IListingsParams
 };
