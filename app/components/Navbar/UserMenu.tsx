@@ -59,7 +59,7 @@ const UserMenu: React.FC<UserMenuProps> = ({
             cursor-pointer
           "
         >
-          WanderLodge your haven
+          wanderlodge your haven
         </div>
         <div 
         onClick={toggleOpen}
