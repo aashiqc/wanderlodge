@@ -14,7 +14,7 @@ import RentModal from './components/Modals/RentModal';
 import Navbar from './components/Navbar/Navbar';
 
 export const metadata = {
-  title: 'Airbnb',
+  title: 'WanderLodge',
   description: 'Airbnb Clone',
 }
 
